@@ -5,7 +5,7 @@ const GITHUB_URL = process.env.REACT_APP_GITHUB_URL
 
 const github = axios.create({
     baseURL:"https://api.github.com",
-    headers:{ Authorization:"token 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" } 
+    headers:{ Authorization:"token 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" } 
 })
 
 // SearchUsers function
